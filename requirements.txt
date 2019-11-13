@@ -61,6 +61,7 @@ PyDispatcher==2.0.5
 Pygments==2.4.0
 PyHamcrest==1.9.0
 pyOpenSSL==19.0.0
+pypiwin32==223
 PySocks==1.6.8
 pytest==3.8.1
 pytest-runner==5.1
